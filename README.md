@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://cdn.pixabay.com/photo/2016/11/29/08/41/apple-1868496_960_720.jpg" alt="cover" />
+<img width="100%" height = "100%" src="https://cdn.pixabay.com/photo/2016/11/29/07/30/adult-1868109_960_720.jpg" alt="cover" />
 </div>
 
 <div align="center">
