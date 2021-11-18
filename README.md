@@ -1,9 +1,11 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2016/11/29/08/41/apple-1868496_960_720.jpg" alt="cover" />
+<img width="100%" height = "100%" src="https://cdn.pixabay.com/photo/2016/11/29/08/41/apple-1868496_960_720.jpg" alt="cover" />
 </div>
 
+<div align="center">
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
+</div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kyrncion.Kyrncion)
 
