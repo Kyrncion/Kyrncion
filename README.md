@@ -17,11 +17,11 @@
 
 - I’m currently working on Orion
 
-- I’m currently learning Data Science, AWS, Data Engineering 
+- I’m a 16 year old high school student currently learning website application development.
 
-- I’m looking to collaborate on Projects, Games, Cyber Security 
+- I’m looking to collaborate on frontend development projects, unity development, and cyber security plugins for games. 
 
-- Talk to me about JavaScript, Freelancing Opportunites, Open Source, C++, C# 
+- Talk to me about JavaScript, Genshin Impact, or if you know Obama's last name.
 
 <h2> Skills </h2>
 <a href= https://github.com/Kyrncion?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
