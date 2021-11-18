@@ -6,9 +6,9 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 </div>
-
+<div align="center">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kyrncion.Kyrncion)
-
+  </div>
 </p>
 <div size='20px' align="center"> Hi! My name is Jack. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
