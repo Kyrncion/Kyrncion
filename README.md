@@ -19,9 +19,9 @@
 
 - I’m currently working on a discord bot called Orion built from JavaScript.
 
-- I’m looking to collaborate on frontend development projects, unity development, and cyber security plugins for games. 
+- I’m looking to collaborate on frontend development projects, unity projects, and cyber security plugins for games. 
 
-- Talk to me about JavaScript, Genshin Impact, or if you know Obama's last name.
+- Feel free to talk to me about JavaScript, Genshin Impact, or your waifu tier list.
 
 <h2> Skills </h2>
 <a href= https://github.com/Kyrncion?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
