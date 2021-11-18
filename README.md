@@ -15,9 +15,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- I’m currently working on a discord bot called Orion built from JavaScript.
-
 - I’m a 16 year old high school student currently learning website application development.
+
+- I’m currently working on a discord bot called Orion built from JavaScript.
 
 - I’m looking to collaborate on frontend development projects, unity development, and cyber security plugins for games. 
 
