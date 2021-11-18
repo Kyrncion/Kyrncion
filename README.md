@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow Internet Beings! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 </div>
  
 </p>
-<div size='25px' align="center"> Hi! My name is Jack. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='25px' align="center"> Hi! My name is Jack. Thank You for taking the time to view my GitHub Profile.
 </div>
 
 <h2> About Me </h2>
@@ -36,7 +36,7 @@
 <a href = 'https://www.twitter.com/Kyrncion'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/Kyrncion'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-<h2> My most used languages </h2>
+<h2> My Most Used Languages </h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyrncion&layout=compact)
 
@@ -50,7 +50,7 @@
 <div size='25px'> Coming Soon! 🕒
 </div>
 
-<h2> Some Programming Humor for you </h2>
+<h2> Some Programming Humor For You </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
