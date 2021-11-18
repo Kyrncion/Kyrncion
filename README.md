@@ -6,14 +6,12 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 </div>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Kyrncion.Kyrncion)
  
 </p>
 <div size='20px' align="center"> Hi! My name is Jack. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -53,8 +51,9 @@
 
 <h2> My Blog Posts </h2>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+</p>
+<div size='20px' align="center"> Coming Soon! 🕒
+</div>
 
 <h2> Some Programming Humor for you </h2>
 
