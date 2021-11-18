@@ -8,7 +8,7 @@
 </div>
  
 </p>
-<div size='25px' align="center"> Hi! My name is Jack. Thank You for taking the time to view my GitHub Profile.
+<div size='25px' align="center"> My name is Jack. Thank You for taking the time to view my GitHub Profile.
 </div>
 
 <h2> About Me </h2>
