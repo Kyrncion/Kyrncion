@@ -39,7 +39,7 @@
 
 
 <h2> My most used languages </h2>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyrncion-pattalam&layout=compact)
 
 
 <h2> My GitHub Stats </h2>
