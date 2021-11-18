@@ -32,15 +32,13 @@
 <a href= https://github.com/Kyrncion?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
 <a href= https://github.com/Kyrncion?tab=repositories&q=&type=&language=arduino&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
 
-
 <h2> Connect with me </h2>
 <a href = 'https://www.twitter.com/Kyrncion'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/Kyrncion'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-
 <h2> My most used languages </h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyrncion)](pattalam&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyrncion&layout=compact)
 
 <h2> My GitHub Stats </h2>
 
