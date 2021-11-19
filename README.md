@@ -19,7 +19,7 @@
 
 - I’m currently working on a discord bot called Orion built from JavaScript.
 
-- I’m looking to collaborate on frontend development projects, unity projects, and cyber security plugins for games. 
+- I’m looking to collaborate on frontend development projects, unity projects, and anti-cheat plugins for games. 
 
 - Feel free to talk to me about JavaScript, Genshin Impact, or your waifu tier list.
 
