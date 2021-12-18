@@ -1,9 +1,5 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://cdn.pixabay.com/photo/2016/03/27/20/00/coffee-1284041_960_720.jpg" alt="cover" />
-</div>
-
-<div align="center">
-<h1> Hello Fellow Internet Beings! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> What's Up Gamers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 </div>
  
@@ -43,18 +39,3 @@
 <h2> My GitHub Stats </h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyrncion)](https://github.com/anuraghazra/github-readme-stats)
-
-<h2> My Blog Posts </h2>
-
-</p>
-<div size='25px'> Coming Soon! 🕒
-</div>
-
-<h2> Some Programming Humor For You </h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-
-<h2> Contact Me Here </h2>
-
-<a href="mailto:Kyrncionofficial2253@gmail.com">![Kyrncionofficial2253@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<br>
