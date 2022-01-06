@@ -23,7 +23,7 @@
         a lot of my free time in competitive programming with C++
       </p>
     </nav>
-    <nav class="code">
+    <nav class="languages">
       <p>
         Currently I practice five programming languages. JavaScript, Java, C++,
         HTML5 & CSS3, but in the future I plan to learn Python.
