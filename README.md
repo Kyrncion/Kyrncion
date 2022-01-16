@@ -13,7 +13,7 @@ const aboutMe = {
          misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
-      ide: ["Visual Studio Code", "Atom"];
+      ide: ["Visual Studio Code", "Atom"],
       mobile: ["Android", "IOS"]
    },
    currentOccupation: ["Junior in High-School"],
