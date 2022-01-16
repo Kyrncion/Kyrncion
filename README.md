@@ -14,7 +14,8 @@ const aboutMe = {
          misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      mobile: ["Android", "IOS"],
+      IDE: ["Visual Studio Code"]
    },
    currentOccupation: ["Junior in High-School"],
    challenge: "Learning React",
