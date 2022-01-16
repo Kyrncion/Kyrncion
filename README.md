@@ -1,31 +1,22 @@
-# Class Template Specialization - Because I'm Bored
-
-```cpp
-#include <iostream>
-using namespace std ;
-
-template <class T>
-class stream
-{
-	public:
-		void f() { cout << "stream<T>::f()"<< endl ;}
-} ;
-
-template <>
-class stream<char>
-{
-	public:
-		void f() { cout << "stream<char>::f()"<< endl ;}
-} ;
-
-int main()
-{
-	stream<int> si ;
-	stream<char> sc ;
-
-	si.f() ;
-	sc.f() ;
-	
-	return 0 ;
-}
+```JavaScript
+const aboutMe = {
+   pronouns: "he" | "they",
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, C++, Kotlin, Swift],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+         c++: ["Atom"],
+         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      mobile: ["Android", "IOS"]
+   },
+   currentOccupation: ["Junior in High-School"],
+   challenge: "Learning React",
+};
 ```
