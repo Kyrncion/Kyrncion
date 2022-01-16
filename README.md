@@ -10,12 +10,11 @@ const aboutMe = {
       backEnd: {
          java: ["Spring"],
          js: ["Node", "Express"],
-         c++: ["Atom"],
          misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"],
-      IDE: ["Visual Studio Code"]
+      ide: ["Visual Studio Code", "Atom"];
+      mobile: ["Android", "IOS"]
    },
    currentOccupation: ["Junior in High-School"],
    challenge: "Learning React",
