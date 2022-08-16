@@ -1,22 +1,24 @@
-```JavaScript
-const aboutMe = {
-   pronouns: "He" | "They",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, C++, Kotlin, Swift],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
-      },
-      backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
-      },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      ide: ["Visual Studio Code", "Atom"],
-      mobile: ["Android", "IOS"]
-   },
-   currentOccupation: ["Junior in High-School"],
-   challenge: "Learning React",
-};
 ```
+
+                                                            ___
+                                             ________.-----''
+                                    ___.--'""___.----''
+                                 .-'    _.-'"
+                      _ .-.__.--'    .-'
+                    .' `  / ' __ _.-'
+                    ) '  '   )   /`-._.
+                   (.'\          )/))-)\
+                 .'    >.________.--'
+              .-'   .-'
+            .'    .'
+         .-'   .-'
+       .'    .'
+      /    .'                                                                              _  __                     _             
+    .'   .'                                                                               | |/ /   _ _ __ _ __   ___(_) ___  _ __
+   /  ,,/                                                                                 | ' / | | | '__| '_ \ / __| |/ _ \| '_ \
+  /'''/                                                                                   | . \ |_| | |  | | | | (__| | (_) | | | |
+ / ,''                                                                                    |_|\_\__, |_|  |_| |_|\___|_|\___/|_| |_|
+/''                                                                                            |___/
+```  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyrncion&theme=graywhite&count_private=true&hide=stars,issues)
