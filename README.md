@@ -1,24 +1,3 @@
-```
-
-                                                            ___
-                                             ________.-----''
-                                    ___.--'""___.----''
-                                 .-'    _.-'"
-                      _ .-.__.--'    .-'
-                    .' `  / ' __ _.-'
-                    ) '  '   )   /`-._.
-                   (.'\          )/))-)\
-                 .'    >.________.--'
-              .-'   .-'
-            .'    .'
-         .-'   .-'
-       .'    .'
-      /    .'                                                                       _  __                     _             
-    .'   .'                                                                        | |/ /   _ _ __ _ __   ___(_) ___  _ __
-   /  ,,/                                                                          | ' / | | | '__| '_ \ / __| |/ _ \| '_ \
-  /'''/                                                                            | . \ |_| | |  | | | | (__| | (_) | | | |
- / ,''                                                                             |_|\_\__, |_|  |_| |_|\___|_|\___/|_| |_|
-/''                                                                                     |___/
-```
+![image](https://ze-robot.com/dl/mi/minimalist-space-2560%C3%971440.jpg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyrncion&theme=graywhite&count_private=true&hide=stars,issues)
